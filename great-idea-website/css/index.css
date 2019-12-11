@@ -79,16 +79,42 @@ a {
 	color: gray;
 }
 
-.logo {
+.GreatIdea {
 	text-align: right;
+	margin-right: 20px;
+}
+
+h1 {
+	font-size: 80px;
 }
 
 .Circle {
 	text-align: right;
 	margin-top: 25px;
 	margin-left: 80px;
+	margin-bottom: 25px;
 }
 
 h3 {
 	font-family: 'Titillium Web', sans-serif;
+}
+
+.Column1 {
+	column-count: 2;
+	column-width: 5px;
+}
+
+.Column2 {
+	column-count: 2;
+	column-width: 5px;
+}
+
+.Features {
+	display: inline-block;
+	margin: 50px;
+}
+
+.About {
+	display: inline-block;
+	margin: 50px;
 }
